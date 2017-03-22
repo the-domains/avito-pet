@@ -1,0 +1,108 @@
+typography_spectrum: 0.49135349843531184
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.6243549574519701
+  lightness: 0.6625345650386287
+  saturation: 0.5218611945198056
+  rhythmicContrast: 0.2949437827587423
+layout_spectrum: 0.07903486483499851
+author:
+  name: AviTo.Pet
+  email: info@avito.pet
+  url: 'http://avito.pet'
+name: AviTo.Pet
+url: 'http://avito.pet'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: .
+    url: 'http://www.rus.pet'
+    type: external
+title: AviTo Pet
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c444f83-5dd8-45b0-ab2b-0118eea8e457.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c444f83-5dd8-45b0-ab2b-0118eea8e457.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22bffede-bd6a-44e5-914a-1ac89e148b24.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/22bffede-bd6a-44e5-914a-1ac89e148b24.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3dd40a-7443-4e7d-bba0-54531fd41fd7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3dd40a-7443-4e7d-bba0-54531fd41fd7.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: о животных
+github: true
