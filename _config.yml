@@ -106,3 +106,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: о животных
 github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f1d423-26f6-48a8-bbfd-b3a5a752adbf.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/20de2889-3528-430f-a889-07b6e2cfacfc.png
